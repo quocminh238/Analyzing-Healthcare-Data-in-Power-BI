@@ -7,12 +7,10 @@
 
 ## 📖 Description
 In this HealthStat case study, working with real-world healthcare data to uncover insights and recommendations for improving hospital efficiency. The project involves:
-
-    - Data Loading and Modeling: Load the dataset and create a data model.
-    - DAX Analysis: Utilize DAX functions to perform data analysis.
-    - Advanced Visualizations: Implement advanced visualizations like Key Influencers.
-    - Report Development: Create a 3-page branded report to share insights with stakeholders.
-
+  - Data Loading and Modeling: Load the dataset and create a data model.
+  - DAX Analysis: Utilize DAX functions to perform data analysis.
+  - Advanced Visualizations: Implement advanced visualizations like Key Influencers.
+  - Report Development: Create a 3-page branded report to share insights with stakeholders.
 The goal is to conduct exploratory analysis, identify hospital performance outliers, and understand factors influencing length of stay and cost per patient discharge.
 
 
