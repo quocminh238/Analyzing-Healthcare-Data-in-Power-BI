@@ -1,7 +1,7 @@
 # Analyzing Healthcare Data in Power BI
 
 <p align="center">
-  <img width="100" src="https://github.com/quocminh238/Analyzing-Healthcare-Data-in-Power-BI/blob/main/Images/logo.JPG">
+  <img width="200" src="https://github.com/quocminh238/Analyzing-Healthcare-Data-in-Power-BI/blob/main/Images/logo.JPG">
 </p>
 
 
@@ -37,3 +37,7 @@ The goal is to conduct exploratory analysis, identify hospital performance outli
 
 ## 🔧 Build Information
 - Power BI
+
+
+## Noted
+- After download and open the file .pbix, if you want to use buttons to navigate between the pages, using <code> Ctrl + Left click </code> to click on those buttons.
