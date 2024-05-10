@@ -17,22 +17,7 @@ The goal is to conduct exploratory analysis, identify hospital performance outli
 
 
 ## 🔮 Result
-<table>
- 
-  <tr>
-    <td>Home page</td>
-    <td>LOS Comparison page</td>
-    <td>Cost Comparison page</td>
-    <td>Hospital Profile page</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/quocminh238/Analyzing-Healthcare-Data-in-Power-BI/blob/main/Images/Result/Home_page.JPG" width="280"></td>
-    <td><img src="https://github.com/quocminh238/Analyzing-Healthcare-Data-in-Power-BI/blob/main/Images/Result/LOS_Comparison_page.jpg" width="280"></td>
-    <td><img src="https://github.com/quocminh238/Analyzing-Healthcare-Data-in-Power-BI/blob/main/Images/Result/Cost_Comparison_page.JPG" width="280"></td>
-    <td><img src="https://github.com/quocminh238/Analyzing-Healthcare-Data-in-Power-BI/blob/main/Images/Result/Hospital_Profile_page.JPG" width="280"></td>
-   </tr>
-
- </table>
+<img src="https://github.com/quocminh238/Analyzing-Healthcare-Data-in-Power-BI/blob/main/Images/Result/Home_page.JPG" width="280"> <img src="https://github.com/quocminh238/Analyzing-Healthcare-Data-in-Power-BI/blob/main/Images/Result/LOS_Comparison_page.jpg" width="280"> <img src="https://github.com/quocminh238/Analyzing-Healthcare-Data-in-Power-BI/blob/main/Images/Result/Cost_Comparison_page.JPG" width="280"> <img src="https://github.com/quocminh238/Analyzing-Healthcare-Data-in-Power-BI/blob/main/Images/Result/Hospital_Profile_page.JPG" width="280"></td>
 
 
 ## 🔧 Build Information
