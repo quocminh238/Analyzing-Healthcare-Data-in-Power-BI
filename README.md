@@ -17,10 +17,12 @@ The goal is to conduct exploratory analysis, identify hospital performance outli
 
 
 ## 🔮 Result
-<img src="https://github.com/quocminh238/Analyzing-Healthcare-Data-in-Power-BI/blob/main/Images/Result/Home_page.JPG" width="400">
-<img src="https://github.com/quocminh238/Analyzing-Healthcare-Data-in-Power-BI/blob/main/Images/Result/LOS_Comparison_page.jpg" width="400">
-<img src="https://github.com/quocminh238/Analyzing-Healthcare-Data-in-Power-BI/blob/main/Images/Result/Cost_Comparison_page.JPG" width="400">
-<img src="https://github.com/quocminh238/Analyzing-Healthcare-Data-in-Power-BI/blob/main/Images/Result/Hospital_Profile_page.JPG" width="400"></td>
+<p align="center">
+  <img src="https://github.com/quocminh238/Analyzing-Healthcare-Data-in-Power-BI/blob/main/Images/Result/Home_page.JPG" width="720">
+  <img src="https://github.com/quocminh238/Analyzing-Healthcare-Data-in-Power-BI/blob/main/Images/Result/LOS_Comparison_page.jpg" width="720">
+  <img src="https://github.com/quocminh238/Analyzing-Healthcare-Data-in-Power-BI/blob/main/Images/Result/Cost_Comparison_page.JPG" width="720">
+  <img src="https://github.com/quocminh238/Analyzing-Healthcare-Data-in-Power-BI/blob/main/Images/Result/Hospital_Profile_page.JPG" width="720"></td>
+</p>
 
 
 ## 🔧 Build Information
